@@ -1,6 +1,6 @@
 ## Content of Project
 - [Technologies](#Technologies)
-- [Running application](#Running application)
+- [Running application](#Running-application)
 - [Algorithm](#Algorithm)
 
 ---
